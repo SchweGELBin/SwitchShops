@@ -15,7 +15,7 @@ Title: SchweGELBin's Shop
 ## Credits
 - Original tinfoil-json by **[carcaschoi](https://github.com/carcaschoi/tinfoil-json)**
 - **[Tinfoil](https://tinfoil.io/)**
-- To visit the shops website, open their link in [shops.json](https://raw.githubusercontent.com/SchweGELBin/SwitchShops/master/shops.json)
+- To visit the shops' websites, open their link in [shops.json](https://raw.githubusercontent.com/SchweGELBin/SwitchShops/master/shops.json)
 
 ## Legal Disclaimer 
 - This software is meant to be strictly reserved for your own **PERSONAL USE**. 
