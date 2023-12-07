@@ -24,8 +24,8 @@ Title: SchweGELBin's Shop
 - [The Biscuit Shop](https://shop.hedge.games)
 - [Ecchi](https://e.cchi.me)
 - [LiberaShop](https://liberashop.rs)
-- [SourceShop](https://sourceshop.app)
 - [RetroROM Shop](https://retrorom.shop)
+- [SourceShop](https://sourceshop.app)
 
 ## Legal Disclaimer 
 - This software is meant to be strictly reserved for your own **PERSONAL USE**. 
