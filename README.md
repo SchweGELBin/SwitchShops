@@ -15,8 +15,14 @@ Title: SchweGELBin's Shop
 ## Credits
 - Original tinfoil-json by **[carcaschoi](https://github.com/carcaschoi/tinfoil-json)**
 - **[Tinfoil](https://tinfoil.io/)**
-- **[Shops](https://raw.githubusercontent.com/SchweGELBin/SwitchShops/master/shoplinks.json)**
 - To visit the (unlisted) shops' websites, open their link in **[shops.json](https://raw.githubusercontent.com/SchweGELBin/SwitchShops/master/shops.json)**
+### Shops
+- [The A-Theme](https://a-theme.ca)
+- [The Biscuit Shop](shop.hedge.com)
+- [Ecchi](https://e.cchi.me)
+- [LiberaShop](https://liberashop.rs)
+- [SourceShop](https://sourceshop.app)
+- [RetroROM Shop](https://retrorom.shop)
 
 ## Legal Disclaimer 
 - This software is meant to be strictly reserved for your own **PERSONAL USE**. 
