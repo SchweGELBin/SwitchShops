@@ -18,7 +18,7 @@ Title: SchweGELBin's Shop
 - To visit the (unlisted) shops' websites, open their link in **[shops.json](https://raw.githubusercontent.com/SchweGELBin/SwitchShops/master/shops.json)**
 ### Shops
 - [The A-Theme](https://a-theme.ca)
-- [The Biscuit Shop](shop.hedge.com)
+- [The Biscuit Shop](https://shop.hedge.com)
 - [Ecchi](https://e.cchi.me)
 - [LiberaShop](https://liberashop.rs)
 - [SourceShop](https://sourceshop.app)
