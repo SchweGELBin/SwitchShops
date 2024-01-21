@@ -23,10 +23,10 @@ Title: SchweGELBin's Shop
 - [The A-Theme](https://a-theme.ca) (Themes)
 - [The Biscuit Shop](https://shop.hedge.games) (Shop)
 - [Ecchi](https://e.cchi.me) (Saves)
+- [Homebrew Shop](https://hb.teknik.app) (HB Shop)
 - [LiberaShop](https://liberashop.rs) (Shop + Retro)
 - [RetroROM Shop](https://retrorom.shop) (Shop + Retro)
 - [SourceShop](https://sourceshop.app) (Shop)
-- [Homebrew Shop](https://hb.teknik.app) (HB Shop)
 
 ## Legal Disclaimer 
 - This software is meant to be strictly reserved for your own **PERSONAL USE**. 
