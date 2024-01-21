@@ -20,13 +20,13 @@ Title: SchweGELBin's Shop
 - **[Tinfoil](https://tinfoil.io/)**
 - To visit the (unlisted) shops' websites, open their link in **[shops.json](https://raw.githubusercontent.com/SchweGELBin/SwitchShops/master/shops.json)**
 ### Shops
-- [The A-Theme](https://a-theme.ca) (Themes)
-- [The Biscuit Shop](https://shop.hedge.games) (Shop)
+- [A-Theme](https://a-theme.ca) (Themes)
+- [Biscuit Shop](https://shop.hedge.games) (Shop)
 - [Ecchi](https://e.cchi.me) (Saves)
-- [Homebrew Shop](https://hb.teknik.app) (HB Shop)
 - [LiberaShop](https://liberashop.rs) (Shop + Retro)
 - [RetroROM Shop](https://retrorom.shop) (Shop + Retro)
-- [SourceShop](https://sourceshop.app) (Shop)
+- [Teknik HomeBrew](https://hb.teknik.app) (HB)
+- [Teknik Shop](https://shop.teknik.app) (Shop)
 
 ## Legal Disclaimer 
 - This software is meant to be strictly reserved for your own **PERSONAL USE**. 
