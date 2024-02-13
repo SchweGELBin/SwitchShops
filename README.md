@@ -10,6 +10,15 @@ Get all the current switch shops with just one domain
 
 ```
 Protocol: https
+Host: schwegelbin.github.io
+Path: shop
+Title: SchweGELBin's Shop
+```
+
+- If the website is unavailable:
+
+```
+Protocol: https
 Host: raw.githubusercontent.com
 Path: SchweGELBin/SwitchShops/master/shops.json
 Title: SchweGELBin's Shop
