@@ -33,7 +33,7 @@ Title: SchweGELBin's Shop
 - [Biscuit Shop](https://shop.hedge.games) (Shop)
 - [Ecchi](https://e.cchi.me) (Saves)
 - [LiberaShop](https://liberashop.rs) (Shop + Retro)
-- [RetroROM Shop](https://retrorom.shop) (Shop + Retro)
+- [RetroROM Shop](https://retrorom.app) (Shop + Retro)
 - [Teknik HomeBrew](https://hb.teknik.app) (HB)
 - [Teknik Shop](https://shop.teknik.app) (Shop)
 
