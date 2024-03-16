@@ -2,8 +2,9 @@
 Get all the current switch shops with just one domain
 
 # How to use
+- Start any file manager
+- Delete "/switch/tinfoil/locations.conf"
 - Start Tinfoil
-- Delete "/switch/tinfoil/locations.conf" and all current servers
 - Add the following server
 - Restart Tinfoil
 - (Enable / Disable what you (don't) need & Restart again)
