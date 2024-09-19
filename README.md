@@ -31,10 +31,7 @@ Title: SchweGELBin's Shop
 - To visit the (unlisted) shops' websites, open their link in **[shops.json](https://raw.githubusercontent.com/SchweGELBin/SwitchShops/master/shops.json)**
 ### Shops
 - [A-Theme](https://a-theme.ca) (Themes)
-- [Ecchi](https://e.cchi.me) (Saves)
-- [RetroROM Shop](https://retrorom.app) (Shop + Retro)
-- [Teknik HomeBrew](https://hb.teknik.app) (HB)
-- [Teknik Shop](https://shop.teknik.app) (Shop)
+- [Ghost eShop](https://nx.ghostland.at)
 
 ## Legal Disclaimer 
 - This software is meant to be strictly reserved for your own **PERSONAL USE**. 
