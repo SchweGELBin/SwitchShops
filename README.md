@@ -33,6 +33,7 @@ Title: SchweGELBin's Shop
 - [A-Theme](https://a-theme.ca) (Themes)
 - [Ecchi](https://e.cchi.me) (Saves)
 - [Ghost eShop](https://nx.ghostland.at) (Shop + Retro)
+- [Ghost eShop BETA](https://nx-beta.ghostland.at) (Beta)
 
 ## Legal Disclaimer 
 - This software is meant to be strictly reserved for your own **PERSONAL USE**. 
